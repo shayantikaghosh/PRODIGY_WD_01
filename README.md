@@ -13,6 +13,6 @@ Fully Responsive: Designed to look and function perfectly across desktops, table
 🛠️ Technologies Used
 HTML: Semantic structure for the navigation and page sections.
 
-CSS: Advanced styling, including position: fixed, Flexbox for layout, and smooth transition effects.
+CSS: Advanced styling, including position: fixed and smooth transition effects.
 
 JavaScript: Event listeners for window scrolling to toggle active classes dynamically.
